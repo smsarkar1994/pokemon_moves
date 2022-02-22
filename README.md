@@ -1,6 +1,6 @@
 # pokemon_moves
 
-Code snippet & date to scrape pokemon move data from pokemondb.net
+Code snippet & date to scrape pokemon move data from Serebii
 
 # SAY NO TO SUICIDE PUBLIC LICENSE 
 
