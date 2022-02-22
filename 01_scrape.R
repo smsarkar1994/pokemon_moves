@@ -3,7 +3,7 @@ library(tidyverse)
 library(rvest)
 library(data.table)
 
-dir <- "C:/Users/samee/Documents/oneoffs/11_pokemon_scrape/"
+dir <- #insert directory here
 input <- paste0(dir, "input/")
 output <- paste0(dir, "output/")
 
